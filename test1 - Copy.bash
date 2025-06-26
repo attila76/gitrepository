@@ -1,3 +1,5 @@
+--------------------------------------
+
 A szülönktől kapott információs rendszer ami alapján döntést hozunk
 magunkra
 a világra 

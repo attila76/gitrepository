@@ -4,7 +4,7 @@ a világra
 a kapcsolatainkra 
 és a jövönkre vonatkozóan
 
-ez
+ez ezt
 - Járt utat a járatlanért ne adj!
 
 Anyám szerint az élet:

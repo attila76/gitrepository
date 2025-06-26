@@ -1,5 +1,7 @@
 ***
 ***
+okés
+---
 
 
 A szülönktől kapott információs rendszer ami alapján döntést hozunk

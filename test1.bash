@@ -2,6 +2,7 @@
 ***
 okés
 ---
+bmbndgnbnbfnfdndfndbnbdnbg
 
 
 A szülönktől kapott információs rendszer ami alapján döntést hozunk

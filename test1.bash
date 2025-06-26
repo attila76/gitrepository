@@ -8,7 +8,7 @@ ez
 - Járt utat a járatlanért ne adj!
 
 Anyám szerint az élet:
-ggdfg
+érdekes
 
 
 Apám szerint az élet:

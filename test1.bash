@@ -4,11 +4,11 @@ a világra
 a kapcsolatainkra 
 és a jövönkre vonatkozóan
 
-ez is jó lesz
+ez
 - Járt utat a járatlanért ne adj!
 
 Anyám szerint az élet:
-
+ggdfg
 
 
 Apám szerint az élet:

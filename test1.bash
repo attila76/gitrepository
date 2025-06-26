@@ -1,10 +1,10 @@
-A szülönktől kapott információs rendszer ami alaőján döntést hozunk
+A szülönktől kapott információs rendszer ami alapján döntést hozunk
 magunkra
 a világra 
 a kapcsolatainkra 
 és a jövönkre vonatkozóan
 
-ez ezt
+
 - Járt utat a járatlanért ne adj!
 
 Anyám szerint az élet:

@@ -1,0 +1,7 @@
+<suite name="Preservve Enable Testsuite">
+<test name="Test 1">
+	<classes>
+		<class name="TTMaven.flightsbooking.FrameworkTestCase"></class>
+	</classes>
+</test>
+</suite>
